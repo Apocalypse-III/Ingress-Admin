@@ -3,6 +3,7 @@
 /public/hot
 /public/.well-known
 /public/storage
+/public/.user.ini
 /storage/*.key
 /vendor
 .env
