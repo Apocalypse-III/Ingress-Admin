@@ -6,9 +6,7 @@ namespace App\Http\Controllers\Api;
 
 use App\Http\Controllers\ApiBaseController;
 use App\Mail\RegisterConfirm;
-use App\Models\User;
 use Auth;
-use Hash;
 use Illuminate\Auth\AuthenticationException;
 use Mail;
 use Validator;
